@@ -1,0 +1,58 @@
+body{
+    font: 20px arial,sans-serif;
+
+}
+
+.logo{
+    margin-left: 120px;   
+}
+.menu{
+    font-size: 20px;
+    margin-left: 150px;
+    align-items:center;
+    justify-content: right;
+}
+.navbar {
+    background-color: #7DCEA0;
+}
+.imagemquemsomos{
+    margin-left: 80px;
+}
+.descricao-quem{
+    margin-top: 20px;
+    margin-left:20px;
+    font-size: 16px;
+    color: rgb(105, 103, 103);
+}
+.quem-somos{
+    background-color: #EAFAF1;
+    color: grey;
+}
+
+.margin {
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+.col-lg-4{
+    padding-bottom: 10px;
+}
+.serviços{
+    background-color: #EAF2F8;
+}
+.parceiros{
+    background-color: #7DCEA0;
+}
+.subtitulo{
+    color: rgb(82, 72, 72);
+}
+
+.bg-footer{
+    font-size: 17px;
+    background-color: #7DCEA0;
+    padding: 10px;
+}
+
+.descricao{
+    font-size: 16px;
+    color: rgb(105, 103, 103);
+}
